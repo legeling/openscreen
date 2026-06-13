@@ -1,7 +1,7 @@
 > [!NOTE]
-> This repository is a community-maintained fork of [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen), which was archived by its original maintainer.
-> The goal of this fork is to continue maintenance, bug fixes, packaging, and user-requested improvements while preserving the original MIT license and attribution.
-> Installation links below may still point to the original project until this fork publishes its own releases.
+> This repository is a community-maintained continuation based on [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen), which was archived by its original maintainer.
+> The goal is to continue maintenance, bug fixes, packaging, and user-requested improvements while preserving the original MIT license and attribution.
+> Installation links below may still point to the original project until this repository publishes its own releases.
 
 > [!WARNING]
 > This started as a side project that blew up; not production grade and you'll hit bugs, but hopefully it covers what you need. **This project will soon be archived.**
